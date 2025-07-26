@@ -32,15 +32,7 @@ You’ll need the Tampermonkey extension for your browser:
 
 ### 2. Install the Script
 
-#### Option A — Quick Install
-
-Click here:
-
-👉 [**Install Script**](https://raw.githubusercontent.com/buxy-xyz/utale-image-to-pixel/refs/heads/main/utale_image-to-pixel.js)
-
-> Tampermonkey will open a new tab — just click **Install**.
-
-#### Option B — Manual Install
+#### Manual Install
 
 1. Click the **Tampermonkey icon** in your browser toolbar  
 2. Choose **"Create a new script..."**  
