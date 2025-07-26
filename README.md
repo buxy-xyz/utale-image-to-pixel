@@ -75,4 +75,4 @@ Click here:
 ---
 
 Made with ❤️ for the UNDERTALE community  
-by [buxy-xyz](https://github.com/buxy-xyz)
+by [buxy-xyz](https://x.com/buxy_xyz)
